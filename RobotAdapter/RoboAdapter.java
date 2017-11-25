@@ -1,7 +1,7 @@
 public class RoboAdapter implements Spieler {
 	Robot roboter;
 
-	RoboAdapter(Robot roboter) {
+	public RoboAdapter(Robot roboter) {
 		this.roboter = roboter;
 	}
 
